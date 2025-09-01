@@ -1,4 +1,4 @@
-# Hello there, have a mouvement 👋
+# Hello there 👋
 
 Welcome to my GitHub profile! I'm Ali, a computer science student passionate about coding, learning, and creating projects that make an impact.  
 
