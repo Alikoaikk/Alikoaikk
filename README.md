@@ -20,9 +20,8 @@ I love exploring new technologies, collaborating on exciting ideas, and continuo
 ---
 
 ## 👨‍💻 About Me  
+- 💡 Sharpening my skills at **42 Beirut**, an innovative peer-to-peer coding school   
 - 🎓 Student of **Computer Science** at **USAL University**  
-- 💡 Sharpening my skills at **42 Beirut**, an innovative peer-to-peer coding school  
-- 🌱 Currently learning **backend development** and diving deeper into **software engineering principles**  
 - 🤝 I enjoy collaborating on open-source projects and contributing to tech communities  
 
 ---
