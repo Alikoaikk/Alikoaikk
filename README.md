@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there, have a mouvement 👋
 
 Welcome to my GitHub profile! I'm Ali, a computer science student passionate about coding, learning, and creating projects that make an impact.  
 
@@ -23,9 +23,17 @@ Welcome to my GitHub profile! I'm Ali, a computer science student passionate abo
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning advanced algorithms, system programming, and web development.  
-- 💻 I love building projects using Java, Python, C, and web technologies.  
-- ⚡ Fun fact: I enjoy experimenting with new frameworks and technologies in my free time.  
+My journey in computer science is defined by the rigorous, self-directed curriculum at **42 Beirut** and my studies at **USAL University**. This experience has allowed me to independently develop a strong foundation in a variety of programming areas. I'm eager to apply my problem-solving skills and connect with others in the technology community.
+
+---
+
+## 🏆 Skills & Expertise
+
+![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=web&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Problem Solving & Algorithm Design  
+- Full Stack Development  
 
 ---
 
