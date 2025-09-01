@@ -14,8 +14,8 @@ I love exploring new technologies, collaborating on exciting ideas, and continuo
 ---
 
 ## ⚡ Frameworks & Libraries  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -28,9 +28,9 @@ I love exploring new technologies, collaborating on exciting ideas, and continuo
 ---
 
 ## 🏆 Skills & Expertise  
-![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=web&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=web&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - 🌐 Full Stack Development  
 - 🗄️ Database Design & Management  
@@ -49,8 +49,8 @@ Here are some areas I’m working on or planning to explore:
 ---
 
 ## 📊 GitHub Stats  
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliKoaik&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKoaik&layout=compact&theme=radical)  
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliKoaik&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKoaik&layout=compact&theme=radical)
 
 ---
 
