@@ -37,13 +37,13 @@ I love exploring new technologies, collaborating on exciting ideas, and continuo
 - 📚 Continuous Learning  
 
 ---
-
 ## 🚀 Projects  
 Here are some areas I’m working on or planning to explore:  
-- 🌍 **Web Applications** with Flask & JavaScript  
-- 🔒 **Cybersecurity basics** and secure coding practices  
-- ⚙️ **Automation scripts** with Bash & Python  
-- 🤖 Exploring **AI/ML fundamentals**  
+- 📱 **Mobile Application Development** (cross-platform & native apps)  
+- 🎨 **Front-End Development** with modern frameworks for sleek, responsive UIs  
+- 🕹️ **3D Rendering & Interactive Graphics** using **Three.js** and WebGL  
+- 🌍 Building creative, user-focused digital experiences  
+
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-koaik-86a4b4272)  
