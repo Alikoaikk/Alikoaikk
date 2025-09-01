@@ -1,25 +1,20 @@
-# 🚀 Welcome to My Digital Arena 🚀
+# Hello there, have a mouvement 👋
 
-## 👋 About Me
-I'm **Your Name**, a back-end engineer specializing in **Spring Boot** and distributed systems.
+Welcome to my GitHub profile! I love coding and building projects.
 
-- 🎓 42 Piscine graduate
-- 🔥 700+ LeetCode problems solved
-- ♟️ Chess enthusiast
-- 🌱 Lifelong learner
+---
 
-## 🔥 Highlights
-- 🎓 B.S. in Computer Science
-- 🛠 Builder of scalable systems
-- 🚀 Looking for high-impact roles
+## 🛠️ Languages
 
-## ⚡ Tech Stack
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=springboot)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+---
+
+## ⚡ Frameworks & Libraries
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
