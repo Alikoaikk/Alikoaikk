@@ -39,9 +39,9 @@ I love exploring new technologies, collaborating on exciting ideas, and continuo
 ---
 ## 🚀 Projects  
 Here are some areas I’m working on or planning to explore:  
-- 📱 **Mobile Application Development** (cross-platform & native apps)  
-- 🎨 **Front-End Development** with modern frameworks for sleek, responsive UIs  
-- 🕹️ **3D Rendering & Interactive Graphics** using **Three.js** and WebGL  
+- 📱 **Mobile Application Development** (cross-platform & Java AStd)  
+- 🎨 **Front-End Development** 
+- 🕹️ **3D Rendering & Interactive Graphics** 
 - 🌍 Building creative, user-focused digital experiences  
 
 
