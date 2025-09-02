@@ -1,6 +1,5 @@
 # 👋 Hello there! Welcome to my GitHub profile  
-I’m **Ali**, a computer science student passionate about **coding, problem-solving, and building impactful projects**.  
-I love exploring new technologies, collaborating on exciting ideas, and continuously improving my craft. 🚀  
+My journey in computer science is defined by the rigorous, self-directed curriculum at 42 Beirut and my studies at USAL University. This experience has allowed me to independently develop a strong foundation in a variety of programming areas. I'm eager to apply my problem-solving skills and connect with others in the technology community. 
 
 ---
 
