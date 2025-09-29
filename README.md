@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://64.media.tumblr.com/f0449d0dd4b8d7814b744ec78d052b04/tumblr_p9o841wXb31vc9j9eo1_500.gifv" width="100%" alt="Coding Background GIF">
-</div>
 
 # <div align="center"><span style="color:#0077B5; font-size:3em; font-weight:bold;">Ali Koaik</span></div>
 <h2 align="center"><span style="color:#D14836; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">✨ Software Development Student & Digital Architect ✨</span></h2>
