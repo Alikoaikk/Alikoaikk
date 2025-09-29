@@ -1,53 +1,56 @@
-# 👋 Hello there! Welcome to my GitHub profile  
-My journey in computer science is defined by the rigorous, self-directed curriculum at 42 Beirut and my studies at USAL University. This experience has allowed me to independently develop a strong foundation in a variety of programming areas. I'm eager to apply my problem-solving skills and connect with others in the technology community. 
+# 🚀 Building and Learning | Software Developer & Student
+
+Hi! I'm focused on developing robust and efficient software solutions, driven by a strong foundational understanding from **42 Beirut**'s innovative, project-based curriculum and my studies in **Computer Science** at **USAL University**.
+
+My experience is rooted in **C, Python, and JavaScript**, with a focus on problem-solving, system programming, and full-stack web development. I thrive on diving deep into technical challenges and contributing to impactful projects.
 
 ---
 
-## 🛠️ Languages  
+## 💻 Core Technologies & Tools
+
+Showcasing my primary languages, frameworks, and tools.
+
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-## ⚡ Frameworks & Libraries  
+### Frameworks & Databases
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-## 👨‍💻 About Me  
-- 💡 Sharpening my skills at **42 Beirut**, an innovative peer-to-peer coding school   
-- 🎓 Student of **Computer Science** at **USAL University**  
-- 🤝 I enjoy collaborating on open-source projects and contributing to tech communities  
-
----
-
-## 🏆 Skills & Expertise  
-![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=web&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- 🌐 Full Stack Development  
-- 🗄️ Database Design & Management  
-- 🔧 Problem Solving & Debugging  
-- 📚 Continuous Learning  
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
-## 🚀 Projects  
-Here are some areas I’m working on or planning to explore:  
-- 📱 **Mobile Application Development** (cross-platform & Java AStd)  
-- 🎨 **Front-End Development** 
-- 🕹️ **3D Rendering & Interactive Graphics** 
-- 🌍 Building creative, user-focused digital experiences  
 
+## 🛠️ Expertise & Focus Areas
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-koaik-86a4b4272)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikoaik004@gmail.com)  
+-   **System Programming**: Deep knowledge and proficiency gained through intensive C projects at 42 Beirut.
+-   **Full Stack Development**: Building dynamic web applications using **Python/Flask** and **JavaScript** with an emphasis on **Database Design** ($MySQL$).
+-   **Problem Solving & Debugging**: Proven ability to independently tackle complex challenges, a core tenet of the 42 curriculum.
+-   **Continuous Learning**: Currently exploring **Mobile Application Development** (Java AStd) and **3D Rendering/Graphics**.
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me—I’d love to collaborate and learn together.  
+## 🌟 Featured Projects
+
+*List 3-5 of your best completed projects here. If you don't have them yet, use the list below, but link them once they exist.*
+
+-   **Project Name 1**: *[Short, 1-line description of a completed project.]*
+-   **Project Name 2**: *[Short, 1-line description of a completed project.]*
+-   **Future Focus**: Building creative, user-focused digital experiences and exploring complex graphics rendering.
+
+---
+
+## 👋 Connect with Me
+
+I'm always open to discussing open-source contributions, collaborative projects, and new technologies.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-koaik-86a4b4272)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikoaik004@gmail.com)
+
+✨ Thanks for stopping by! Feel free to explore my repositories.
