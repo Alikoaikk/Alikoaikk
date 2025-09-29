@@ -76,10 +76,6 @@ I'm always eager to meet others in the technology community, discuss open-source
     <span style="color:#4479A1; font-style:italic;">Go around!</span> Dive into my repositories below and see the projects I'm building as I progress on my learning journey—I'd love your feedback and collaboration.
 </h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%" alt="Line separator GIF">
-</div>
-
 <p align="center">
 ✨ <span style="color:#F7DF1E; font-weight:bold;">Thank you for visiting my digital space. The best is yet to be coded!</span>
 </p>
