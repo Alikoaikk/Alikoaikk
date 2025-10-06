@@ -79,7 +79,3 @@ I'm always eager to meet others in the technology community, discuss open-source
 <p align="center">
 ✨ <span style="color:#F7DF1E; font-weight:bold;">Thank you for visiting my digital space. The best is yet to be coded!</span>
 </p>
-
-<div align="center">
-  <img src="https://64.media.tumblr.com/f0449d0dd4b8d7814b744ec78d052b04/tumblr_p9o841wXb31vc9j9eo1_500.gifv" width="100%" alt="Coding Background GIF">
-</div>
