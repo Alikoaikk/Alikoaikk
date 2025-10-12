@@ -10,10 +10,6 @@ Student at <span style="color:#EDB52D; font-weight:bold;">42 Beirut</span> and <
 Focused on elegant systems, scalable architecture, and crafted code.
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="55%" alt="divider">
-</div>
-
 ## <div align="center"><span style="color:#D4AF37; font-size:2em;">⚙️ Core Stack</span></div>
 
 <p align="center" style="color:#CFCFCF;">
