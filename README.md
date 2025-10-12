@@ -67,7 +67,3 @@ Open to collaboration, knowledge sharing, and open-source exploration.
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="divider">
 </div>
-
-<p align="center">
-💫 <span style="color:#D4AF37; font-weight:bold;">Elegance in logic. Simplicity in creation.</span>
-</p>
