@@ -65,7 +65,7 @@ Open to collaboration, knowledge sharing, and open-source exploration.
 </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" alt="divider">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="divider">
 </div>
 
 <p align="center">
