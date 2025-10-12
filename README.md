@@ -1,25 +1,29 @@
-<!-- Luxurious GitHub Profile README -->
-
-# <div align="center"><span style="color:#CBA135; font-size:3em; font-weight:800; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Ali Koaik</span></div>
-<h2 align="center"><span style="color:#8C8C8C; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Software Development Student • Digital Craftsman</span></h2>
+<!-- Elegant + Animated GitHub Profile README -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" alt="divider">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg" alt="typing animation" />
 </div>
 
-<p align="center" style="color:#CFCFCF; font-size:1.05em;">
-Learner at <span style="color:#D4A017; font-weight:bold;">42 Beirut</span> and <span style="color:#0078D7; font-weight:bold;">USAL University</span>.  
-Focused on system design, clean architecture, and precision-driven code.
+# <div align="center"><span style="color:#D4AF37; font-size:3em; font-weight:800; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Ali Koaik</span></div>
+<h2 align="center"><span style="color:#C0C0C0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Software Development Student • Digital Craftsman</span></h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="55%" alt="divider">
+</div>
+
+<p align="center" style="color:#CCCCCC; font-size:1.05em;">
+Student at <span style="color:#EDB52D; font-weight:bold;">42 Beirut</span> and <span style="color:#0078D7; font-weight:bold;">USAL University</span>.  
+Focused on elegant systems, scalable architecture, and crafted code.
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" alt="divider">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="55%" alt="divider">
 </div>
 
-## <div align="center"><span style="color:#CBA135; font-size:2em;">⚙️ Core Stack</span></div>
+## <div align="center"><span style="color:#D4AF37; font-size:2em;">⚙️ Core Stack</span></div>
 
 <p align="center" style="color:#CFCFCF;">
-From low-level mastery in <span style="color:#0078D7; font-weight:bold;">C</span> to full-stack fluency.
+Building from low-level power in <span style="color:#0078D7; font-weight:bold;">C</span> toward full-stack versatility.
 </p>
 
 <div align="center">
@@ -41,24 +45,24 @@ From low-level mastery in <span style="color:#0078D7; font-weight:bold;">C</span
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" alt="divider">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="55%" alt="divider">
 </div>
 
-## <div align="center"><span style="color:#CBA135; font-size:2em;">🎯 Focus Areas</span></div>
+## <div align="center"><span style="color:#D4AF37; font-size:2em;">🎯 Focus Areas</span></div>
 
-- <span style="color:#CBA135;">**<img src="https://img.icons8.com/color/24/000000/brain.png"/> Algorithmic Thinking**</span>: Refining logic and problem-solving.  
-- <span style="color:#0078D7;">**<img src="https://img.icons8.com/color/24/000000/internet.png"/> Full Stack**</span>: Creating smooth, efficient user–server flows.  
-- <span style="color:#D4A017;">**<img src="https://img.icons8.com/color/24/000000/android-os.png"/> Mobile Apps**</span>: Building Android tools with Java.  
-- <span style="color:#E06C75;">**<img src="https://img.icons8.com/color/24/000000/3d-printer.png"/> Visual Systems**</span>: Learning rendering and interactive graphics.
+- <span style="color:#D4AF37;">**<img src="https://img.icons8.com/color/24/000000/brain.png"/> Algorithmic Thinking**</span>: Strengthening precision and clarity.  
+- <span style="color:#0078D7;">**<img src="https://img.icons8.com/color/24/000000/internet.png"/> Full Stack Design**</span>: Bridging user and backend logic.  
+- <span style="color:#EDB52D;">**<img src="https://img.icons8.com/color/24/000000/android-os.png"/> Mobile Development**</span>: Crafting Android tools in Java.  
+- <span style="color:#E06C75;">**<img src="https://img.icons8.com/color/24/000000/3d-printer.png"/> Visual Systems**</span>: Exploring graphics and rendering.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" alt="divider">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="55%" alt="divider">
 </div>
 
-## <div align="center"><span style="color:#CBA135; font-size:2em;">🤝 Connect</span></div>
+## <div align="center"><span style="color:#D4AF37; font-size:2em;">🤝 Connect</span></div>
 
 <p align="center" style="color:#CFCFCF;">
-Collaborations and open-source conversations welcome.
+Open to collaboration, knowledge sharing, and open-source exploration.
 </p>
 
 <p align="center">
@@ -71,9 +75,13 @@ Collaborations and open-source conversations welcome.
 </p>
 
 <h3 align="center" style="color:#AFAFAF;">
-  <span style="font-style:italic;">Explore my repositories — crafted with clarity and intent.</span>
+  <span style="font-style:italic;">Explore my repositories — code refined, design intentional.</span>
 </h3>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" alt="divider">
+</div>
+
 <p align="center">
-💫 <span style="color:#D4AF37; font-weight:bold;">Precision in code. Elegance in design.</span>
+💫 <span style="color:#D4AF37; font-weight:bold;">Elegance in logic. Simplicity in creation.</span>
 </p>
