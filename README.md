@@ -55,10 +55,6 @@ Building strong fundamentals with <span style="color:#00599C; font-weight:bold;"
 ## <div align="center"><span style="color:#FCC624; font-size:2em;">🤝 Connect</span></div>
 
 <p align="center">
-Open to collaboration and open-source discussions.
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/ali-koaik-86a4b4272" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -70,7 +66,3 @@ Open to collaboration and open-source discussions.
 <h3 align="center">
     <span style="color:#4479A1; font-style:italic;">Explore my repositories.</span>
 </h3>
-
-<p align="center">
-✨ <span style="color:#F7DF1E; font-weight:bold;">Thanks for visiting — always coding forward.</span>
-</p>
