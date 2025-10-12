@@ -1,9 +1,3 @@
-<!-- Elegant + Animated GitHub Profile README -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg" alt="typing animation" />
-</div>
-
 # <div align="center"><span style="color:#D4AF37; font-size:3em; font-weight:800; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Ali Koaik</span></div>
 <h2 align="center"><span style="color:#C0C0C0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Software Development Student • Digital Craftsman</span></h2>
 
