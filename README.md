@@ -38,10 +38,6 @@ Building from low-level power in <span style="color:#0078D7; font-weight:bold;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="55%" alt="divider">
-</div>
-
 ## <div align="center"><span style="color:#D4AF37; font-size:2em;">🎯 Focus Areas</span></div>
 
 - <span style="color:#D4AF37;">**<img src="https://img.icons8.com/color/24/000000/brain.png"/> Algorithmic Thinking**</span>: Strengthening precision and clarity.  
