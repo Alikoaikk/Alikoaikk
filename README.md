@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=40&pause=1000&color=D4AF37&lines=Ali+Koaik;Aspiring+Front-End+Developer;Designer" alt="Ali Koaik - Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=600&lines=Ali+Koaik;Aspiring+Front-End+Developer;Designer" alt="Ali Koaik - Typing Animation" />
 </div>
 
 <div align="center">
@@ -7,12 +7,13 @@
 </div>
 
 <p align="center" style="color:#CFCFCF; font-size:1.05em;">
-As a **42 Beirut** student, I'm building low-level projects in **C** and I am continuously learning new skills while I'm doing other projects.
+As a <strong>42 Beirut</strong> student, I'm building low-level projects in <strong>C</strong> and continuously learning new skills while working on other projects.
 </p>
 
 ## <div align="center"><span style="color:#D4AF37; font-size:2em;">⚙️ Core Stack</span></div>
 
 <div align="center">
+
   <h3><span style="color:#E5C07B;">Languages</span></h3>
   <img src="https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,16 +38,16 @@ As a **42 Beirut** student, I'm building low-level projects in **C** and I am co
 ## <div align="center"><span style="color:#D4AF37; font-size:2em;">🤝 Connect</span></div>
 
 <p align="center" style="color:#CFCFCF;">
-I'm always open to collaboration, knowledge sharing, and open-source exploration. **Let's build something great.**
+I'm always open to collaboration, knowledge sharing, and open-source exploration. <strong>Let's build something great.</strong>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ali-koaik-86a4b4272" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:alikoaik004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/ali-koaik-86a4b4272" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:alikoaik004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <h3 align="center" style="color:#AFAFAF;">
