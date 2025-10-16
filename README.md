@@ -1,7 +1,6 @@
 <div align="center">
-  <h1 style="color:#D4AF37; font-size:3em; font-weight:800; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Ali Koaik</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=40&pause=1000&color=D4AF37&lines=Ali+Koaik;Aspiring+Front-End+Developer;Designer" alt="Ali Koaik - Typing Animation" />
 </div>
-<h2 align="center"><span style="color:#C0C0C0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Aspiring Front-End Developer • Designer</span></h2>
 
 <div align="center">
   <hr style="border: 1px solid #C0C0C0; width: 55%; margin: 20px auto;">
