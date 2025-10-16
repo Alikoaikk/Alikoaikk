@@ -1,31 +1,5 @@
-<style>
-/* CSS for the typing/printing effect */
-.typewriter h1 {
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid #D4AF37; /* The typewriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: 
-    typing 4s steps(20, end),
-    blink-caret .75s step-end infinite;
-}
-
-/* The typing animation effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #D4AF37; }
-}
-</style>
-
-<div align="center" class="typewriter">
-    <h1 style="color:#D4AF37; font-size:3em; font-weight:800; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Ali Koaik</h1>
+<div align="center">
+  <h1 style="color:#D4AF37; font-size:3em; font-weight:800; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Ali Koaik</h1>
 </div>
 <h2 align="center"><span style="color:#C0C0C0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Aspiring Front-End Developer • Designer</span></h2>
 
@@ -64,7 +38,7 @@ As a **42 Beirut** student, I'm building low-level projects in **C** and I am co
 ## <div align="center"><span style="color:#D4AF37; font-size:2em;">🤝 Connect</span></div>
 
 <p align="center" style="color:#CFCFCF;">
-I'm always open to collaboration, knowledge sharing, and open-source exploration. Let's build something great.
+I'm always open to collaboration, knowledge sharing, and open-source exploration. **Let's build something great.**
 </p>
 
 <p align="center">
