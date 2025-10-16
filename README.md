@@ -1,19 +1,43 @@
-# <div align="center"><span style="color:#D4AF37; font-size:3em; font-weight:800; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Ali Koaik</span></div>
-<h2 align="center"><span style="color:#C0C0C0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Software Development Student • Digital Craftsman</span></h2>
+<style>
+/* CSS for the typing/printing effect */
+.typewriter h1 {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid #D4AF37; /* The typewriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 4s steps(20, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing animation effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #D4AF37; }
+}
+</style>
+
+<div align="center" class="typewriter">
+    <h1 style="color:#D4AF37; font-size:3em; font-weight:800; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Ali Koaik</h1>
+</div>
+<h2 align="center"><span style="color:#C0C0C0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Aspiring Front-End Developer • Designer</span></h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="55%" alt="divider">
+  <hr style="border: 1px solid #C0C0C0; width: 55%; margin: 20px auto;">
 </div>
 
-<p align="center" style="color:#CCCCCC; font-size:1.05em;">
-Student at <span style="color:#EDB52D; font-weight:bold;">42 Beirut</span> and <span style="color:#0078D7; font-weight:bold;">USAL University</span>.
+<p align="center" style="color:#CFCFCF; font-size:1.05em;">
+As a **42 Beirut** student, I'm building low-level projects in **C** and I am continuously learning new skills while I'm doing other projects.
 </p>
 
 ## <div align="center"><span style="color:#D4AF37; font-size:2em;">⚙️ Core Stack</span></div>
-
-<p align="center" style="color:#CFCFCF;">
-Building from low-level power in <span style="color:#0078D7; font-weight:bold;">C</span> toward full-stack versatility.
-</p>
 
 <div align="center">
   <h3><span style="color:#E5C07B;">Languages</span></h3>
@@ -33,21 +57,14 @@ Building from low-level power in <span style="color:#0078D7; font-weight:bold;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
-## <div align="center"><span style="color:#D4AF37; font-size:2em;">🎯 Focus Areas</span></div>
-
-- <span style="color:#D4AF37;">**<img src="https://img.icons8.com/color/24/000000/brain.png"/> Algorithmic Thinking**</span>: Strengthening precision and clarity.  
-- <span style="color:#0078D7;">**<img src="https://img.icons8.com/color/24/000000/internet.png"/> Full Stack Design**</span>: Bridging user and backend logic.  
-- <span style="color:#EDB52D;">**<img src="https://img.icons8.com/color/24/000000/android-os.png"/> Mobile Development**</span>: Crafting Android tools in Java.  
-- <span style="color:#E06C75;">**<img src="https://img.icons8.com/color/24/000000/3d-printer.png"/> Visual Systems**</span>: Exploring graphics and rendering.
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="55%" alt="divider">
+  <hr style="border: 1px solid #C0C0C0; width: 55%; margin: 20px auto;">
 </div>
 
 ## <div align="center"><span style="color:#D4AF37; font-size:2em;">🤝 Connect</span></div>
 
 <p align="center" style="color:#CFCFCF;">
-Open to collaboration, knowledge sharing, and open-source exploration.
+I'm always open to collaboration, knowledge sharing, and open-source exploration. Let's build something great.
 </p>
 
 <p align="center">
@@ -60,7 +77,7 @@ Open to collaboration, knowledge sharing, and open-source exploration.
 </p>
 
 <h3 align="center" style="color:#AFAFAF;">
-  <span style="font-style:italic;">Explore my repositories — code refined, design intentional.</span>
+  <span style="font-style:italic;">Explore my repositories — where code is refined and design is intentional.</span>
 </h3>
 
 <div align="center">
