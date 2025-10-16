@@ -35,11 +35,11 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
   <hr style="border: 1px solid #C0C0C0; width: 55%; margin: 20px auto;">
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3500&pause=1500&color=0078FF&center=true&vCenter=true&width=850&lines=I'm+always+open+to+collaboration,+knowledge+sharing,+and+open-source+exploration.;Let's+build+something+great." alt="Animated Collaboration Line" />
-</div>
-
 ## <div align="center"><span style="color:#0078FF; font-size:2em;">🤝 Connect</span></div>
+
+<p align="center" style="color:#CFCFCF;">
+I'm always open to collaboration, knowledge sharing, and open-source exploration. <strong>Let's build something great.</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-koaik-86a4b4272" target="_blank">
