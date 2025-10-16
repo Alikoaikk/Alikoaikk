@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&duration=2500&pause=800&color=0078FF&center=true&vCenter=true&width=900&lines=Ali+Koaik;Aspiring+Front-End+Developer+%26+Designer&startDelay=200" alt="Ali Koaik - Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?size=18&duration=2000&color=2FA5D8&center=true&lines=-Welcom+to+my+Github!-;-I'm+Ali+Koaik-;Aspiring+front-end+developer+%26+Designer" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <hr style="border: 1px solid #C0C0C0; width: 55%; margin: 20px auto;">
