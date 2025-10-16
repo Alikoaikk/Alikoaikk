@@ -1,6 +1,7 @@
-<div align="center" style="margin-top: 50px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&duration=2000&color=2FA5D8&center=true&width=900&lines=-Welcom+to+my+Github!-;-I'm+Ali+Koaik-;Aspiring+front-end+developer+%26+Designer" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&duration=2000&color=2FA5D8&center=true&vCenter=true&padding=50&width=900&lines=-Welcom+to+my+Github!-;-I'm+Ali+Koaik-;Aspiring+front-end+developer+%26+Designer" alt="Typing SVG" />
 </div>
+
 
 
 
