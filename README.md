@@ -6,8 +6,7 @@
 </div>
 
 <p align="center" style="color:#CCCCCC; font-size:1.05em;">
-Student at <span style="color:#EDB52D; font-weight:bold;">42 Beirut</span> and <span style="color:#0078D7; font-weight:bold;">USAL University</span>.  
-Focused on elegant systems, scalable architecture, and crafted code.
+Student at <span style="color:#EDB52D; font-weight:bold;">42 Beirut</span> and <span style="color:#0078D7; font-weight:bold;">USAL University</span>.
 </p>
 
 ## <div align="center"><span style="color:#D4AF37; font-size:2em;">⚙️ Core Stack</span></div>
