@@ -20,6 +20,7 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
 <div align="center">
 
   <h3><span style="color:#66B2FF;">Languages</span></h3>
+  expert in Python security stuff
   <img src="https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
