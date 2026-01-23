@@ -20,17 +20,17 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
 <div align="center">
 
   <h3><span style="color:#66B2FF;">Languages</span></h3>
-  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" style="background-color: white; border-radius: 8px; padding: 2px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
 
   <h3><span style="color:#66B2FF;">Web & Databases</span></h3>
-  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" style="filter: invert(80%) sepia(15%) saturate(1500%) hue-rotate(80deg);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
 
   <h3><span style="color:#66B2FF;">Tools & Systems</span></h3>
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
