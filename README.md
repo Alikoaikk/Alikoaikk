@@ -28,13 +28,13 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
   <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
 
   <h3><span style="color:#66B2FF;">Web & Databases</span></h3>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
 
   <h3><span style="color:#66B2FF;">Tools & Systems</span></h3>
-  <img src="https://img.shields.io/badge/Git-B7410E?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
 </div>
 
 <div align="center">
