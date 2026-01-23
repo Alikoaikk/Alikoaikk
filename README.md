@@ -20,12 +20,12 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
 <div align="center">
 
   <h3><span style="color:#66B2FF;">Languages</span></h3>
-  <img src="https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
 
   <h3><span style="color:#66B2FF;">Web & Databases</span></h3>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
