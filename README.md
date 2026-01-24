@@ -24,7 +24,7 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" style="background-color: white; border-radius: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=light" width="48" height="48" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
 
   <h3><span style="color:#66B2FF;">Web & Databases</span></h3>
