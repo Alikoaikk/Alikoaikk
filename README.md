@@ -54,9 +54,6 @@ I'm always open to collaboration, knowledge sharing, and open-source exploration
   <span style="font-style:italic;">Explore my repositories — where code is refined and design is intentional.</span>
 </h3>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- Bottom Wave Animation -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
