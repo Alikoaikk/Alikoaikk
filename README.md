@@ -9,15 +9,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&duration=2000&pause=1000&color=c26328&center=true&vCenter=true&padding=50&width=900&lines=-Welcom+to+my+Github!-;-I'm+Ali+Koaik-;Aspiring+front-end+developer+%26+Designer" alt="Typing SVG" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <p align="center" style="color:#CFCFCF; font-size:1.05em;">
 As a <strong>42 Beirut</strong> student, I'm building low-level projects in <strong>C</strong> and continuously learning new skills while working on other projects.
 </p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> <span style="color:#0078FF; font-size:2em;">⚙️ Core Stack</span></div>
 
@@ -40,9 +34,6 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> <span style="color:#0078FF; font-size:2em;">🤝 Connect</span></div>
 
