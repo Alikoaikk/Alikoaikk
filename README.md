@@ -28,7 +28,7 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
   <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
 
   <h3><span style="color:#66B2FF;">Web & Databases</span></h3>
-  <img src="https://cdn.simpleicons.org/flask/000000" width="48" height="48" alt="Flask"/>
+  <img src="https://cdn.simpleicons.org/flask/00BD56" width="48" height="48" alt="Flask"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" style="background-color: #4479A1; border-radius: 8px;"/>
 
