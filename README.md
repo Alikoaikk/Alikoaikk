@@ -13,7 +13,7 @@
 As a <strong>42 Beirut</strong> student, I'm building low-level projects in <strong>C</strong> and continuously learning new skills while working on other projects.
 </p>
 
-## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> <span style="color:#0078FF; font-size:2em;">⚙️ Core Stack</span></div>
+## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> <span style="color:#0078FF; font-size:2em;"> Core Stack</span></div>
 
 <div align="center">
 
@@ -35,7 +35,7 @@ As a <strong>42 Beirut</strong> student, I'm building low-level projects in <str
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
 </div>
 
-## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> <span style="color:#0078FF; font-size:2em;">🤝 Connect</span></div>
+## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> <span style="color:#0078FF; font-size:2em;"> Connect</span></div>
 
 <p align="center" style="color:#CFCFCF;">
 I'm always open to collaboration, knowledge sharing, and open-source exploration. <strong>Let's build something great.</strong>
