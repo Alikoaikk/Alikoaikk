@@ -4,42 +4,14 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=~/ali+%24+whoami;Ali+Koaik+—+CS+Student+%40+42+Beirut;Low-Level+Systems+%7C+C+%7C+Linux;Passionate+about+building+from+scratch;echo+%24STATUS+%3E+open+to+opportunities" alt="Typing SVG"/>
-
-</div>
-
-<div align="center">
-
-![Available](https://img.shields.io/badge/●%20Available%20for%20Opportunities-10b981?style=for-the-badge&logoColor=white)
-![Location](https://img.shields.io/badge/📍%20Lebanon-1a2540?style=for-the-badge&color=1a2540&labelColor=2e4068&logoColor=a8bbd4)
-![42 Beirut](https://img.shields.io/badge/42%20Beirut-Level%204-00d4ff?style=for-the-badge&color=1e2d45&labelColor=00d4ff&logoColor=131c2e)
-![Degree](https://img.shields.io/badge/B.Sc.%20Computer%20Science-8b5cf6?style=for-the-badge)
-
-</div>
-
 ---
 
 ## `// about me`
 
-```bash
-~/ali $ whoami
-Ali Koaik
-
-~/ali $ echo $STATUS
-open to opportunities
-
-~/ali $ cat bio.txt
-CS student at 42 Beirut (Level 4) & University of Science and Arts in Lebanon.
-I love low-level programming, systems design, and building things from scratch.
-From memory management in C to multithreading and shell pipelines — I go deep.
-
-~/ali $ cat skills.txt
-C  CPP  Python  Java  JavaScript  SQL
-
-~/ali $ █
-```
+CS student at **42 Beirut** (Level 4) and the **University of Science and Arts in Lebanon**.
+I'm passionate about low-level programming, systems design, and building things from scratch —
+from memory management in C to multithreading and shell pipelines.
+Always looking for new challenges that push me to grow.
 
 ---
 
@@ -47,7 +19,7 @@ C  CPP  Python  Java  JavaScript  SQL
 
 <div align="center">
 
-<h3><code style="color:#00d4ff;">// Languages</code></h3>
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00d4ff?style=for-the-badge&logo=c&logoColor=131c2e)
 ![C++](https://img.shields.io/badge/C++-00d4ff?style=for-the-badge&logo=cplusplus&logoColor=131c2e)
@@ -56,7 +28,7 @@ C  CPP  Python  Java  JavaScript  SQL
 ![JavaScript](https://img.shields.io/badge/JavaScript-00d4ff?style=for-the-badge&logo=javascript&logoColor=131c2e)
 ![SQL](https://img.shields.io/badge/SQL-00d4ff?style=for-the-badge&logo=postgresql&logoColor=131c2e)
 
-<h3><code>// Technologies & Tools</code></h3>
+**Technologies & Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8b5cf6?style=for-the-badge&logo=git&logoColor=white)
@@ -65,46 +37,12 @@ C  CPP  Python  Java  JavaScript  SQL
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8b5cf6?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-8b5cf6?style=for-the-badge&logo=jinja&logoColor=white)
 
-<h3><code>// Dev Environments</code></h3>
+**Dev Environments**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-10b981?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-10b981?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/NetBeans-10b981?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-10b981?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</div>
-
----
-
-## `// projects`
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🐚 **MINISHELL**](https://github.com/akoaik-msafa/minishell) | Fully functional Unix shell — pipes, redirections, built-ins, signals | ![C](https://img.shields.io/badge/C-10b981?style=flat-square) ![Unix](https://img.shields.io/badge/Unix-10b981?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-10b981?style=flat-square) |
-| [🧵 **PHILOSOPHERS**](https://github.com/alikoaikk/PHILOSOPHERS) | Dining Philosophers with POSIX threads, mutexes & deadlock prevention | ![C](https://img.shields.io/badge/C-10b981?style=flat-square) ![Threads](https://img.shields.io/badge/Threads-10b981?style=flat-square) ![POSIX](https://img.shields.io/badge/POSIX-10b981?style=flat-square) |
-| [📝 **FT_PRINTF**](https://github.com/alikoaikk/FT_PRINTF) | Full reimplementation of `printf` — variadic args, all format specifiers | ![C](https://img.shields.io/badge/C-10b981?style=flat-square) ![Variadic](https://img.shields.io/badge/Variadic-10b981?style=flat-square) |
-| [📜 **GET_NEXT_LINE**](https://github.com/alikoaikk/GET_NEXT_LINE) | Line-reading function for any file descriptor in C | ![C](https://img.shields.io/badge/C-10b981?style=flat-square) ![Systems](https://img.shields.io/badge/Systems-10b981?style=flat-square) |
-| [⚙️ **PIPEX**](https://github.com/alikoaikk/PIPEX) | Unix shell pipeline replication — fork, execve, pipes | ![C](https://img.shields.io/badge/C-10b981?style=flat-square) ![Pipes](https://img.shields.io/badge/Pipes-10b981?style=flat-square) |
-| [🎵 **Python Music App**](https://github.com/alikoaikk/Python-music-Application) | Desktop music player with Tkinter, Pygame & Pandas | ![Python](https://img.shields.io/badge/Python-10b981?style=flat-square) ![Tkinter](https://img.shields.io/badge/Tkinter-10b981?style=flat-square) |
-
-</div>
-
----
-
-## `// github stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alikoaikk&show_icons=true&theme=dark&bg_color=131c2e&border_color=2e4068&title_color=00d4ff&text_color=a8bbd4&icon_color=8b5cf6&hide_border=false&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikoaikk&layout=compact&theme=dark&bg_color=131c2e&border_color=2e4068&title_color=00d4ff&text_color=a8bbd4" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alikoaikk&theme=dark&background=131c2e&border=2e4068&stroke=2e4068&ring=00d4ff&fire=8b5cf6&currStreakNum=00d4ff&sideNums=a8bbd4&currStreakLabel=00d4ff&sideLabels=a8bbd4&dates=6b87a8" height="165"/>
 
 </div>
 
