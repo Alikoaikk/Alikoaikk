@@ -27,24 +27,24 @@ Always looking for new challenges that push me to grow.
 
 <br/>
 
-![C](https://img.shields.io/badge/C-00d4ff?style=for-the-badge&logo=c&logoColor=131c2e)
-![C++](https://img.shields.io/badge/C++-00d4ff?style=for-the-badge&logo=cplusplus&logoColor=131c2e)
-![Python](https://img.shields.io/badge/Python-00d4ff?style=for-the-badge&logo=python&logoColor=131c2e)
-![Java](https://img.shields.io/badge/Java-00d4ff?style=for-the-badge&logo=openjdk&logoColor=131c2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-00d4ff?style=for-the-badge&logo=javascript&logoColor=131c2e)
-![SQL](https://img.shields.io/badge/SQL-00d4ff?style=for-the-badge&logo=postgresql&logoColor=131c2e)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8b5cf6?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-8b5cf6?style=for-the-badge&logo=gnu&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8b5cf6?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-8b5cf6?style=for-the-badge&logo=jinja&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-10b981?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-10b981?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/NetBeans-10b981?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-10b981?style=for-the-badge&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
