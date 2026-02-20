@@ -14,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e2d45&height=38&text=About%20Me&fontSize=15&fontColor=00d4ff&fontAlign=50&fontAlignY=62&section=header" width="100%"/>
 
-CS student at **42 Beirut** (Level 4) and the **University of Science and Arts in Lebanon**.
+CS student at **42 Beirut** (Level 5) and the **University of Science and Arts in Lebanon**.
 I'm passionate about low-level programming, systems design, and building things from scratch —
 from memory management in C to multithreading and shell pipelines.
 Always looking for new challenges that push me to grow.
