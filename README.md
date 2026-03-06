@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131c2e,50:1a2540,100:00d4ff&height=220&section=header&text=Ali%20Koaik&fontSize=56&fontColor=00d4ff&fontAlignY=40&desc=CS%20Student%20%7C%20Systems%20Programmer%20%7C%2042%20Beirut&descSize=18&descAlignY=62&descColor=a8bbd4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131c2e,50:1a2540,100:00d4ff&height=200&section=header" width="100%"/>
+
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&duration=2000&pause=1000&color=00d4ff&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github!;I'm+Ali+Koaik;CS+Student+%7C+Systems+Programmer;42+Beirut+Student" alt="Typing SVG"/>
+</div>
 
 <br/>
 
