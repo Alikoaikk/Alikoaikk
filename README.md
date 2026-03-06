@@ -1,11 +1,9 @@
-<div align="center">
+<div align="center" style="position: relative;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131c2e,50:1a2540,100:00d4ff&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131c2e,50:1a2540,100:00d4ff&height=200&section=header" width="100%" style="position: relative;"/>
 
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&duration=2000&pause=1000&color=00d4ff&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github!;I'm+Ali+Koaik;CS+Student+%7C+Systems+Programmer;42+Beirut+Student" alt="Typing SVG"/>
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=36&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github!;I'm+Ali+Koaik;CS+Student+%7C+Systems+Programmer;42+Beirut+Student" alt="Typing SVG"/>
 </div>
 
 <br/>
