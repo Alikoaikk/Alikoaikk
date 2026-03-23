@@ -62,7 +62,7 @@ Always looking for new challenges that push me to grow.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-koaikkoaik-86a4b4272)
 [![Gmail](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikoaik004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=internetexplorer&logoColor=131c2e)](https://alikoaikk.github.io/port/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=internetexplorer&logoColor=131c2e)](https://alikoaikk.github.io/Me)
 
 <br/>
 
