@@ -7,11 +7,6 @@
 </div>
 
 <br/>
-
-<a href="https://alikoaikk.github.io/Me">
-  <img src="https://img.shields.io/badge/🌐  View My Portfolio-131c2e?style=for-the-badge&labelColor=00d4ff&color=131c2e" alt="Portfolio"/>
-</a>
-
 </div>
 
 <br/>
