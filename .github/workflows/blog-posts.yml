@@ -1,0 +1,26 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull in latest posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 5
+          commit_message: "Update latest blog posts"
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://medium.com/feed/@alikoaik"

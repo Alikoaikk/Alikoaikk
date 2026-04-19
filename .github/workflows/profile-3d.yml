@@ -1,0 +1,38 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push to profile-3d-contrib branch
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          BRANCH=profile-3d-contrib
+          git checkout --orphan "$BRANCH"
+          git rm -rf . > /dev/null 2>&1 || true
+          mv profile-3d-contrib/* .
+          git add *.svg
+          git commit -m "chore: regenerate 3D contribution calendar"
+          git push --force origin "$BRANCH"
