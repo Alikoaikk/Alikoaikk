@@ -13,10 +13,10 @@
 
 ## 📖 About Me
 
-CS student at **42 Beirut** (Level 5) and the **University of Science and Arts in Lebanon**.
-I'm passionate about low-level programming, systems design, and building things from scratch —
-from memory management in C to multithreading and shell pipelines.
-Always looking for new challenges that push me to grow.
+- CS student at **42 Beirut** (Level 5) and the **University of Science and Arts in Lebanon**
+- Passionate about low-level programming, systems design, and building things from scratch
+- Experienced with memory management in C, multithreading, and shell pipelines
+- Always looking for new challenges that push me to grow
 
 <br/>
 
