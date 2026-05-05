@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Front-End+Developer;42+Beirut+Cadet+%7C+CS+Student;Turning+code+into+art+%E2%9C%A8;Always+learning%2C+never+settling" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<a href="https://linkedin.com/in/ali-koaikkoaik-86a4b4272">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ali-koaik&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/42_Beirut-000000?style=for-the-badge&logo=42&logoColor=white" />
-
 </div>
 
 ---
