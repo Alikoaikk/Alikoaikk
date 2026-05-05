@@ -32,8 +32,6 @@ fueled_by:   Curiosity and clean syntax
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; Arsenal
 
-<div align="center">
-
 ### Languages
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -47,13 +45,6 @@ fueled_by:   Curiosity and clean syntax
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-### On the Horizon
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</div>
 
 ---
 
@@ -74,10 +65,4 @@ Whether it's a project, a question, or just a friendly chat — my inbox is open
 
 ---
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
-
-<sub>⭐ From <a href="https://github.com/ali-koaik">Ali Koaik</a> — Built with passion in Beirut 🇱🇧</sub>
-
-</div>
