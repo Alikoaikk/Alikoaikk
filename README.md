@@ -21,9 +21,8 @@ name:        Ali Koaik
 role:        Aspiring Front-End Developer
 education:   Computer Science Student @ 42 Beirut
 location:    Beirut, Lebanon
-mindset:     "Code with intention. Design with empathy."
 currently:   Mastering the fundamentals — one project at a time
-fueled_by:   Coffee, curiosity, and clean syntax
+fueled_by:   Curiosity and clean syntax
 ```
 
 > I believe great software is born at the intersection of **logic** and **creativity**.
