@@ -69,45 +69,6 @@ fueled_by:   Coffee, curiosity, and clean syntax
 
 ---
 
-## <img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="28"> &nbsp; The Numbers
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ali-koaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-koaik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-koaik&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ali-koaik&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Philosophy
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
-
-</div>
-
-```c
-while (alive) {
-    learn();
-    build();
-    refactor();
-    coffee++;
-}
-```
-
----
-
 ## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHy/giphy.gif" width="28"> &nbsp; Let's Connect
 
 <div align="center">
