@@ -19,9 +19,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Recolored to match the README palette (navy #0F2027 -> cyan #00D9FF).
+          # color_dots = empty cell, then 4 contribution levels (low -> high).
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#0f2027&color_dots=#ebedf0,#a8e6f3,#4cc9e4,#0e98b8,#0e5c70
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#0b3a46,#0e5c70,#0a92b0,#00d9ff
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
